@@ -93,7 +93,7 @@ ClassList["gunslinger"] = {
 				source: ["HB", 3],
 				minlevel : 2,
 				description : "\n   " + "Choose an attachment for the Gunslinger using the \"Choose Feature\" button above",
-				choices : ["Magnified Sight", "Advanced Sight", "Foregrip", "Bipod", "Bayonet", "Suppressor"],
+				choices : ["Magnified Sight", "Advanced Sight", "Reinforced Pommel", "Bipod", "Bayonet", "Suppressor"],
 				"magnified sight" : {
 					name : "Magnified Sight",
 					description : "\n   " + "The firearms normal and maximum range of the firearm increase by 10 feet.",
@@ -104,14 +104,14 @@ ClassList["gunslinger"] = {
 				},
 				"foregrip" : {
 					name : "Foregrip",
-					description : "\n   " + "Impose disadvantage on disarming strikes.",
+					description : "\n   " + "You cannot be disarmed as long as you have a free hand to hold the foregrip.",
 				},
 				"bipod" : {
 					name : "Bipod",
 					description : "\n   " + "You do not have disadvantage on attack rolls when prone.",
 				},
-				"bayonet" : {
-					name : "Bayonet",
+				"reinforced pommel" : {
+					name : "Reinforced Pommel",
 					description : "\n   " + "You become proficient with unarmed strikes dealt with this firearm.",
 				},
 				"suppressor" : {
