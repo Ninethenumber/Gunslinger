@@ -93,7 +93,7 @@ ClassList["gunslinger"] = {
 				source: ["HB", 3],
 				minlevel : 2,
 				description : "\n   " + "Choose an attachment for the Gunslinger using the \"Choose Feature\" button above",
-				choices : ["Magnified Sight", "Advanced Sight", "Reinforced Pommel", "Bipod", "Bayonet", "Suppressor"],
+				choices : ["Magnified Sight", "Advanced Sight", "Foregrip", "Bipod", "Reinforced Pommel", "Suppressor"],
 				"magnified sight" : {
 					name : "Magnified Sight",
 					description : "\n   " + "The firearms normal and maximum range of the firearm increase by 10 feet.",
